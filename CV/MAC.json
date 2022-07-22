@@ -348,6 +348,79 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Full Stack Software Development",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "4Geeks Academy",
+          "description": "Certification from 4Geeks Academy.",
+          "URL": "https://certificate.4geeks.com/c4646f62bdecb1b1f2cd5f46de6b285cb813a4ae",
+          "image": {
+            "alt": "1657220350921.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/c3b17b98-0d48-4e0b-9c79-024582e98310_1657220350921.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Figma",
+            "type": "technology"
+          },
+          {
+            "name": "Flask",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Scss",
+            "type": "technology"
+          },
+          {
+            "name": "SlqAlchemy",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Full-Stack Software Develpment",

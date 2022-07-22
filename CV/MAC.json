@@ -183,6 +183,12 @@
       },
       {
         "skill": {
+          "name": "Heroku",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Rust",
           "type": "technology"
         }

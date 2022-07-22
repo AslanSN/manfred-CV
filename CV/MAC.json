@@ -51,6 +51,57 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Attlos",
+          "image": {
+            "alt": "1642178848691.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/8f57eedf-e05d-4b06-93e4-7ef79299c2b2_1642178848691.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Front-End Developer",
+            "startDate": "2021-12-01",
+            "finishDate": "2022-06-01",
+            "challenges": [
+              {
+                "description": "Development of a front-end web app in an Agile Scrum environment.\n\nIt's a wonderful experience with a great team. Learning from each other, proposing solutions between all of us, we have come a long way. Understanding and camaraderie are our daily bread. Fears go away, you make friends and connect with people from whom you always have something to learn. \n\nDeveloping front end with TypeScript for the first time was not too difficult thanks to the JavaScript base. I gained knowledge of token implementation. I'm excited about the open and flexible way of programming we have. We are always looking for standalone components that have the greatest flexibility of implementation. As our CEO says, \"the component should not know what the other component is doing\", which makes for an extremely dynamic programme. \n\nFor the first time I was working in parallel and relying on a specialised UX and UI team, so I had to practice good communication, without fear, asking all the necessary questions so that everything goes smoothly. Better to ask and do it well than to do it without knowing and regret it later, double work."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "StyledComponents",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {

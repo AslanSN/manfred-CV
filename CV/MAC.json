@@ -146,6 +146,49 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Ucoll - Full-Stack Developer - Lead",
+          "description": "Ucoll is a Social Media Project university students oriented. We wanted to implement a lot of tools to ease the university life and a easy contacting system between the students without the need of exanche your mobile phone number or your email.\n\nIt's the final project of the 4Geeks Academy Full-Stack Bootcamp that I've done with my two teammates, one back end strong and the other front end strong.\n\nProud of fostering team spirit and optimal pace, of being a fast programmer and researcher of new knowledge to consolidate the project and of having delved into the world of UX and UI as app designer.\n\nI was the one who suppervised the back and the front work, to encourage the team to give its best.\n\nNowadays, as we grew in knowledge, we would have done the project in a complete other way, even so I'm proud of it despite its precariousness.",
+          "URL": "https://github.com/Ucoll",
+          "image": {
+            "alt": "95966126.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/a1158499-2806-4849-950b-72706ece92ee_95966126.jpg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-12-01",
+            "finishDate": "2022-03-01",
+            "competences": [
+              {
+                "name": "Flask",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "SlqAlchemy",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {

@@ -34,20 +34,12 @@
         "fact": "I am passionate about philosophy and psychology. I am currently writing a book on philosophy and wellbeing focusing on what I consider to be one of the scarcest resources and of which we, human beings, are the source: love. Seen in a\ncompletely new and even avant-garde way."
       },
       {
-        "topic": "I love music",
-        "fact": "I do know to play some musical instruments and I must remark the love of ethnical music of around the world."
-      },
-      {
         "topic": "DESIGN",
-        "fact": "I love the world of Graphic Design, UX and UI, so I also learn about it by myself."
+        "fact": "I do know to play some musical instruments and I must remark the love of ethnical music of around the world.\nI love the world of Graphic Design, UX and UI, so I also learn about it by myself."
       },
       {
         "topic": "I studied psychology and phylosophy",
         "fact": "I'm a person who cares about others. So I decided to study two of the big themes in my live. Even though I couldn't finish those careers as I decided to study IT."
-      },
-      {
-        "topic": "I love animation films",
-        "fact": "They are a great way to tell fantastic and deep stories that can get to your heart!"
       }
     ]
   },

@@ -1,0 +1,234 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Alan",
+      "surnames": "Staub Negro",
+      "title": "Full Stack Software Engineer",
+      "description": "I am a passionate, intellectually restless person who is always looking to learn and know the ins and outs of this life.\n\nI have a great passion for programming. I aspire to develop my seniority and bring my growing polymathic knowledge to my enironment and to the most groundbreaking websites and apps of the moment offering the best solutions either as Front End, Back End or Full Stack.\n\nIn a team I am a promoter of teamwork, empathy and good communication; I am assertive with mentorship spirit. I love to help people bring out the best in themselves, supporting them and helping them to be confident.",
+      "avatar": {
+        "alt": "FotoSlackPerfil.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/c78b8de6-c957-451f-8e3f-af542b174f3f_fotoslackperfil.jpg"
+      },
+      "location": {
+        "notes": "Spain, Palma de Mallorca"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/AslanSN"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/alanstaubnegro/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "I'm actually writing a book",
+        "fact": "I am passionate about philosophy and psychology. I am currently writing a book on philosophy and wellbeing focusing on what I consider to be one of the scarcest resources and of which we, human beings, are the source: love. Seen in a\ncompletely new and even avant-garde way."
+      },
+      {
+        "topic": "I love music",
+        "fact": "I do know to play some musical instruments and I must remark the love of ethnical music of around the world."
+      },
+      {
+        "topic": "DESIGN",
+        "fact": "I love the world of Graphic Design, UX and UI, so I also learn about it by myself."
+      },
+      {
+        "topic": "I studied psychology and phylosophy",
+        "fact": "I'm a person who cares about others. So I decided to study two of the big themes in my live. Even though I couldn't finish those careers as I decided to study IT."
+      },
+      {
+        "topic": "I love animation films",
+        "fact": "They are a great way to tell fantastic and deep stories that can get to your heart!"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Catalan"
+      },
+      {
+        "name": "English"
+      },
+      {
+        "name": "French"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flask",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scss",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Rust",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "StyledComponents",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SlqAlchemy",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/alanstaubnegro/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Rust",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}

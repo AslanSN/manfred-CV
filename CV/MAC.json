@@ -345,6 +345,70 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Full-Stack Software Develpment",
+        "startDate": "2021-10-01",
+        "finishDate": "2022-07-01",
+        "institution": {
+          "name": "4Geeks Academy",
+          "description": "Bootcamp developed by 4Geeks Academy working-oriented that initiates the student on the web programming world.",
+          "URL": "https://4geeksacademy.com/",
+          "image": {
+            "alt": "1657220350921.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/6f448d19-5547-4467-add6-cc70ebddccb8_1657220350921.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Flask",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Scss",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {

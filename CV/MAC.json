@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -11,25 +11,15 @@
       "title": "Full Stack Software Engineer",
       "description": "I am a passionate, intellectually restless person who is always looking to learn and know the ins and outs of this life.\n\nI have a great passion for programming. I aspire to develop my seniority and bring my growing polymathic knowledge to my enironment and to the most groundbreaking websites and apps of the moment offering the best solutions either as Front End, Back End or Full Stack.\n\nIn a team I am a promoter of teamwork, empathy and good communication; I am assertive with mentorship spirit. I love to help people bring out the best in themselves, supporting them and helping them to be confident.",
       "avatar": {
-        "alt": "FotoSlackPerfil.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/c78b8de6-c957-451f-8e3f-af542b174f3f_fotoslackperfil.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/c78b8de6-c957-451f-8e3f-af542b174f3f_fotoslackperfil.jpg",
+        "alt": "FotoSlackPerfil.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJBx4GBoeUlxIRUtQsMHk3UuE)",
         "country": "España",
-        "region": "Islas Baleares",
-        "notes": "Autocompleted using Google Maps API"
+        "region": "Islas Baleares"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/AslanSN"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/alanstaubnegro/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "I'm actually writing a book",
@@ -42,6 +32,16 @@
       {
         "topic": "I studied psychology and phylosophy",
         "fact": "I'm a person who cares about others. So I decided to study two of the big themes in my live. Even though I couldn't finish those careers as I decided to study IT."
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/alanstaubnegro/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/AslanSN"
       }
     ]
   },
@@ -86,7 +86,7 @@
                 "type": "technology"
               },
               {
-                "name": "StyledComponents",
+                "name": "Styled Components",
                 "type": "technology"
               }
             ]
@@ -97,8 +97,8 @@
         "organization": {
           "name": "Attlos",
           "image": {
-            "alt": "1642178848691.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/8f57eedf-e05d-4b06-93e4-7ef79299c2b2_1642178848691.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/8f57eedf-e05d-4b06-93e4-7ef79299c2b2_1642178848691.jpg",
+            "alt": "1642178848691.jpg"
           }
         },
         "roles": [
@@ -125,7 +125,7 @@
                 "type": "technology"
               },
               {
-                "name": "StyledComponents",
+                "name": "Styled Components",
                 "type": "technology"
               },
               {
@@ -148,8 +148,8 @@
           "description": "Ucoll is a Social Media Project university students oriented. We wanted to implement a lot of tools to ease the university life and a easy contacting system between the students without the need of exanche your mobile phone number or your email.\n\nIt's the final project of the 4Geeks Academy Full-Stack Bootcamp that I've done with my two teammates, one back end strong and the other front end strong.\n\nProud of fostering team spirit and optimal pace, of being a fast programmer and researcher of new knowledge to consolidate the project and of having delved into the world of UX and UI as app designer.\n\nI was the one who suppervised the back and the front work, to encourage the team to give its best.\n\nNowadays, as we grew in knowledge, we would have done the project in a complete other way, even so I'm proud of it despite its precariousness.",
           "URL": "https://github.com/Ucoll",
           "image": {
-            "alt": "95966126.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/a1158499-2806-4849-950b-72706ece92ee_95966126.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/a1158499-2806-4849-950b-72706ece92ee_95966126.jpg",
+            "alt": "95966126.jpg"
           }
         },
         "type": "sideProject",
@@ -157,7 +157,6 @@
           {
             "name": "Developer",
             "startDate": "2021-12-01",
-            "finishDate": "2022-03-01",
             "competences": [
               {
                 "name": "Flask",
@@ -179,7 +178,8 @@
                 "name": "Scss",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2022-03-01"
           }
         ]
       }
@@ -188,68 +188,30 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
+        "name": "CA",
+        "fullName": "Catalán / Valenciano",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
-        "name": "French",
-        "level": "Full professional proficiency"
-      },
-      {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "FR",
+        "fullName": "Francés",
+        "level": "Full professional proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Scss",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Figma",
+          "name": "Azure",
           "type": "technology"
         }
       },
@@ -261,43 +223,19 @@
       },
       {
         "skill": {
-          "name": "Nest",
+          "name": "CSS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Redux",
+          "name": "Express",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Heroku",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
+          "name": "Figma",
           "type": "technology"
         }
       },
@@ -315,7 +253,25 @@
       },
       {
         "skill": {
-          "name": "jQuery",
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Heroku",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -333,13 +289,49 @@
       },
       {
         "skill": {
-          "name": "Rust",
+          "name": "MySQL",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Express",
+          "name": "Nest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Rust",
           "type": "technology"
         }
       },
@@ -351,13 +343,25 @@
       },
       {
         "skill": {
-          "name": "Azure",
+          "name": "Scss",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "StyledComponents",
+          "name": "Styled Components",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
           "type": "technology"
         }
       }
@@ -373,8 +377,8 @@
           "description": "Certification from 4Geeks Academy.",
           "URL": "https://certificate.4geeks.com/c4646f62bdecb1b1f2cd5f46de6b285cb813a4ae",
           "image": {
-            "alt": "1657220350921.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/c3b17b98-0d48-4e0b-9c79-024582e98310_1657220350921.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/c3b17b98-0d48-4e0b-9c79-024582e98310_1657220350921.jpg",
+            "alt": "1657220350921.jpg"
           }
         },
         "linkedCompetences": [
@@ -441,16 +445,16 @@
         "degreeAchieved": true,
         "name": "Full-Stack Software Develpment",
         "startDate": "2021-10-01",
-        "finishDate": "2022-07-01",
         "institution": {
           "name": "4Geeks Academy",
           "description": "Bootcamp developed by 4Geeks Academy working-oriented that initiates the student on the web programming world.",
           "URL": "https://4geeksacademy.com/",
           "image": {
-            "alt": "1657220350921.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/6f448d19-5547-4467-add6-cc70ebddccb8_1657220350921.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/6f448d19-5547-4467-add6-cc70ebddccb8_1657220350921.jpg",
+            "alt": "1657220350921.jpg"
           }
         },
+        "finishDate": "2022-07-01",
         "linkedCompetences": [
           {
             "name": "Bootstrap",
@@ -498,15 +502,42 @@
           }
         ]
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/alanstaubnegro/"
+          "URL": "https://www.linkedin.com/in/alanstaubnegro/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/AslanSN",
+          "type": "github"
         }
+      ],
+      "contactMails": [
+        "alan.staub@hotmail.com"
       ]
     },
     "preferences": {
@@ -531,5 +562,14 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I would love to have a stable job where I can continously learn and improve my skills. Also I would love to have a good team and a good work environment. \n\nIt's important to me to have the option to have the possibility of promotion as I learn more and more, because I'm am a proactive and analytical person.",
+    "goodPractices": "SOLID, E2, KISS, DRY, TDD, TDA, SOC, YAGNI, Clean Code, Code Optimization, OOP and FOP / FP.",
+    "projects": [
+      {
+        "name": "Ucoll - Full-Stack Developer - Lead"
+      }
+    ]
   }
 }

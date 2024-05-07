@@ -313,6 +313,12 @@
       },
       {
         "skill": {
+          "name": "Preact",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Python",
           "type": "technology"
         }
@@ -564,6 +570,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "Figma",
+        "type": "technology"
+      },
+      {
+        "name": "Jest",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "I would love to have a stable job where I can continously learn and improve my skills. Also I would love to have a good team and a good work environment. \n\nIt's important to me to have the option to have the possibility of promotion as I learn more and more, because I'm am a proactive and analytical person.",
     "goodPractices": "SOLID, E2, KISS, DRY, TDD, TDA, SOC, YAGNI, Clean Code, Code Optimization, OOP and FOP / FP.",
     "projects": [

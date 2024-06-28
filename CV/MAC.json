@@ -632,7 +632,7 @@
       }
     ],
     "desiredJobDescription": "I would love to have a stable job where I can continously learn and improve my skills. Also I would love to have a good team and a good work environment. \n\nIt's important to me to have the option to have the possibility of promotion as I learn more and more, because I'm am a proactive and analytical person.",
-    "goodPractices": "SOLID, E2, KISS, DRY, TDD, TDA, SOC, YAGNI, Clean Code, Code Optimization, OOP and FOP / FP.",
+    "goodPractices": "Me son muy importantes las buenas prácticas. Principalmente el KISS porque creo que te ayuda a mantener presente la simpleza del código y no complicarte la vida malgastando tiempo llevando a cabo \"sobreingeniería\". Además las prácticas SOLID son de suma importancia para mantener un código limpio y evitar \"code smells\". Depende del entorno y de la libertad que tenga siempre trato de llevar a cabo TDD usando TS porque te ayuda a prevenir muchos errores y te lleva a desarrollar de una forma particularmente efectiva. Aún tengo mucho que aprender pero mi inercia natural es la solidez y la limpieza.",
     "projects": [
       {
         "name": "Ucoll - Full-Stack Developer - Lead"

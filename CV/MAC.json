@@ -46,6 +46,10 @@
       {
         "type": "twitter",
         "URL": "https://twitter.com/AslanSN_"
+      },
+      {
+        "type": "other",
+        "URL": "https://aslansn-cv.vercel.app/"
       }
     ]
   },

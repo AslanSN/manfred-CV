@@ -57,6 +57,46 @@
     "jobs": [
       {
         "organization": {
+          "name": "Nivimu",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/28/883236a0-0b4f-4165-9c18-0d3bab74468a_logo-nivimu.svg",
+            "alt": "logo-nivimu.svg"
+          },
+          "URL": "https://nivimu.com"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2023-04-01",
+            "finishDate": "2024-04-01",
+            "challenges": [
+              {
+                "description": "Startup con una PWA de vanguardia en el sector de recursos humanos enfocado en plantillas amplias y diversas con turnos flexibles con la mayor eficiencia y ahorro. \nApp de grandes dimensiones y complejidades. Trabajo intenso con tiempos de entrega cortos, maximizada eficiencia. En un equipo proactivo y de máxima cooperación, con alta coordinación entre departamentos.\nAlta responsabilidad individual:\n- Revisión de código\n- Autoaprobación de ramas\n- QA UX\n- Libertad de elección de tareas\n\n- Refactorizando de JS a TS en React a bitDev para crear librería de compontentes interna, design system y micro-frontends.\n- Diseñador de apoyo de UX/UI\n- Especializado en:\n - Time zones\n - Themes de clientes\n - Ant Design\n - React Query\n - Comunicación asíncrona\n- STACK extra: \n - Redux / Redux-Saga,\n - CSS, SCSS, Emotion, \n - Mockoon\n - Entornos Linux, zsh, ohmyzsh.\n - Gitlab, Mattermost, Airtable\n - Open Replay, Sentry"
+              }
+            ],
+            "competences": [
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "Redux-Saga",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Íntegro"
         },
         "roles": [

@@ -565,6 +565,10 @@
           "type": "technology"
         },
         {
+          "name": "React Native",
+          "type": "technology"
+        },
+        {
           "name": "Rust",
           "type": "technology"
         },

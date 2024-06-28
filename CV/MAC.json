@@ -97,12 +97,17 @@
       },
       {
         "organization": {
-          "name": "Íntegro"
+          "name": "Íntegro",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/28/e9b74110-ba4b-4312-af93-720bd03d8805_noname.png",
+            "alt": "noname.png"
+          }
         },
         "roles": [
           {
             "name": "Full Stack Developer - Freelance",
             "startDate": "2022-05-01",
+            "finishDate": "2023-04-01",
             "challenges": [
               {
                 "description": "Íntegro is a consumer services company that offers itself as a nexus to provide personalised services acting as such between client and company.\n\nI am currently solely responsible for the design and development of Íntegro's website. I advise on the technologies to be used, create the architecture of the company's website and decide on the technologies to be used, as well as the hosting. I also work as a graphic designer, creating flayers, company logos and the design of the UX and UI. I do it all on my own."

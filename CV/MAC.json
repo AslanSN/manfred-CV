@@ -42,6 +42,10 @@
       {
         "type": "github",
         "URL": "https://github.com/AslanSN"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/aslansn"
       }
     ]
   },
@@ -540,6 +544,10 @@
         {
           "URL": "https://github.com/AslanSN",
           "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/aslansn",
+          "type": "twitter"
         }
       ],
       "contactMails": [

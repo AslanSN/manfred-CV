@@ -685,10 +685,6 @@
       ],
       "discardedCompetences": [
         {
-          "name": "Java",
-          "type": "technology"
-        },
-        {
           "name": "PHP",
           "type": "technology"
         }

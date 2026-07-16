@@ -612,10 +612,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Flutter",
-          "type": "technology"
-        },
-        {
           "name": "Go",
           "type": "technology"
         },

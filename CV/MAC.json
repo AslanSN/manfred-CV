@@ -601,6 +601,12 @@
       ],
       "contactMails": [
         "alan.staub@hotmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "664330610",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {

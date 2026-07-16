@@ -57,6 +57,45 @@
     "jobs": [
       {
         "organization": {
+          "name": "DEBOS"
+        },
+        "roles": [
+          {
+            "name": "Ingeniero Full-Stack",
+            "startDate": "2024-10-01",
+            "finishDate": "2026-07-01",
+            "challenges": [
+              {
+                "description": "Incorporado vía ARATECH (oct 2024); indefinido desde mar 2025. Progresión de Junior a Senior. Plataforma SaaS de gestión de edificios inteligentes.\n\n- #1 contribuidor neto del código en ~20 meses; sostuve el frontend en solitario ~8 meses durante la ausencia del lead (tres features grandes a producción, cero reverts críticos).\n- En mi tramo final asumí la entrega de todo el departamento de tech (deadlines, desbloqueo de equipos, comunicación): una coordinación que llevaba el CTO y me delegó.\n- Construí 6+ módulos de producto de punta a punta (climatización, energía, agua, persianas, accesos, llaves de organización) y un buscador de dispositivos full-stack (React + endpoint .NET + índices trigram de PostgreSQL).\n- Suite e2e (Playwright) desde una configuración dormida: auth/teardown, guard anti-producción, automatización del QA manual; feature flags (Amplitude) y observabilidad (Sentry).\n- Definí las convenciones de ingeniería con IA del equipo (CLAUDE.md + skills de revisión versionadas) y un flujo con Claude Code, agentes y MCP."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Nivimu",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/28/883236a0-0b4f-4165-9c18-0d3bab74468a_logo-nivimu.svg",

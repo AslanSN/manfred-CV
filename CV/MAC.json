@@ -303,6 +303,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Azure",
           "type": "technology"
         }
@@ -388,6 +394,12 @@
       {
         "skill": {
           "name": "Nest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
           "type": "technology"
         }
       },
@@ -697,15 +709,15 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "CSS",
+        "name": ".NET",
         "type": "technology"
       },
       {
-        "name": "Figma",
+        "name": "NextJS",
         "type": "technology"
       },
       {
-        "name": "Jest",
+        "name": "PostgreSQL",
         "type": "technology"
       },
       {

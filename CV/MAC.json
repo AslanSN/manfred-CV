@@ -57,7 +57,12 @@
     "jobs": [
       {
         "organization": {
-          "name": "DEBOS"
+          "name": "DEBOS",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/07/17/d9bff738-3942-4d62-80aa-47a7018a420c_debos_spain_logo.jpeg",
+            "alt": "debos_spain_logo.jpeg"
+          },
+          "URL": "https://www.linkedin.com/company/debos-spain/about/"
         },
         "roles": [
           {
@@ -66,7 +71,7 @@
             "finishDate": "2026-07-01",
             "challenges": [
               {
-                "description": "Incorporado vía ARATECH (oct 2024); indefinido desde mar 2025. Progresión de Junior a Senior. Plataforma SaaS de gestión de edificios inteligentes.\n\n- #1 contribuidor neto del código en ~20 meses; sostuve el frontend en solitario ~8 meses durante la ausencia del lead (tres features grandes a producción, cero reverts críticos).\n- En mi tramo final asumí la entrega de todo el departamento de tech (deadlines, desbloqueo de equipos, comunicación): una coordinación que llevaba el CTO y me delegó.\n- Construí 6+ módulos de producto de punta a punta (climatización, energía, agua, persianas, accesos, llaves de organización) y un buscador de dispositivos full-stack (React + endpoint .NET + índices trigram de PostgreSQL).\n- Suite e2e (Playwright) desde una configuración dormida: auth/teardown, guard anti-producción, automatización del QA manual; feature flags (Amplitude) y observabilidad (Sentry).\n- Definí las convenciones de ingeniería con IA del equipo (CLAUDE.md + skills de revisión versionadas) y un flujo con Claude Code, agentes y MCP."
+                "description": "Incorporado vía ARATECH (oct 2024); indefinido desde mar 2025. Progresión de Junior a Senior. Plataforma SaaS de gestión de edificios inteligentes.\n\n- Lideré la entrega del frontend; lo sostuve en solitario ~8 meses durante la ausencia del lead (tres features grandes a producción, cero reverts críticos).\n- En mi tramo final asumí la entrega de todo el departamento de tech (deadlines, desbloqueo de equipos, comunicación): una coordinación que llevaba el CTO y me delegó.\n- Construí 6+ módulos de producto de punta a punta (climatización, energía, agua, persianas, accesos, llaves de organización) y un buscador de dispositivos full-stack (React + endpoint .NET + índices trigram de PostgreSQL).\n- Suite e2e (Playwright) desde una configuración dormida: auth/teardown, guard anti-producción, automatización del QA manual; feature flags (Amplitude) y observabilidad (Sentry).\n- Definí las convenciones de ingeniería con IA del equipo (CLAUDE.md + skills de revisión versionadas) y un flujo con Claude Code, agentes y MCP."
               }
             ],
             "competences": [
